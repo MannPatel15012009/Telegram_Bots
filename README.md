@@ -1,9 +1,7 @@
 # Telegram_Bots
 ## TestBot1 :
  It is an echo bot
-
 ## TestBot2 :
- Description of test bot 2
-
+It perfrms basic addition and subtraction of 2 numbers
 ## TestBot3 :
- Description of test bot 3
+It is a full fledged calculator cabable of performing multi number calculations 
